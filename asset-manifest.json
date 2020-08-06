@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/sevengalaxies-app/static/css/main.5f361e03.chunk.css",
+    "main.js": "/sevengalaxies-app/static/js/main.e633e357.chunk.js",
+    "main.js.map": "/sevengalaxies-app/static/js/main.e633e357.chunk.js.map",
+    "runtime-main.js": "/sevengalaxies-app/static/js/runtime-main.bb4424a7.js",
+    "runtime-main.js.map": "/sevengalaxies-app/static/js/runtime-main.bb4424a7.js.map",
+    "static/js/2.587b26e1.chunk.js": "/sevengalaxies-app/static/js/2.587b26e1.chunk.js",
+    "static/js/2.587b26e1.chunk.js.map": "/sevengalaxies-app/static/js/2.587b26e1.chunk.js.map",
+    "index.html": "/sevengalaxies-app/index.html",
+    "precache-manifest.13e9bc2496e6fc6df48d7f30992c15f8.js": "/sevengalaxies-app/precache-manifest.13e9bc2496e6fc6df48d7f30992c15f8.js",
+    "service-worker.js": "/sevengalaxies-app/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/sevengalaxies-app/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.587b26e1.chunk.js.LICENSE.txt": "/sevengalaxies-app/static/js/2.587b26e1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/sevengalaxies-app/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bb4424a7.js",
+    "static/js/2.587b26e1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.e633e357.chunk.js"
+  ]
+}
