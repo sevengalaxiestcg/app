@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/sevengalaxies-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/sevengalaxies-app/static/js/main.7aa43e18.chunk.js",
-    "main.js.map": "/sevengalaxies-app/static/js/main.7aa43e18.chunk.js.map",
+    "main.css": "/sevengalaxies-app/static/css/main.5b37446e.chunk.css",
+    "main.js": "/sevengalaxies-app/static/js/main.8a152348.chunk.js",
+    "main.js.map": "/sevengalaxies-app/static/js/main.8a152348.chunk.js.map",
     "runtime-main.js": "/sevengalaxies-app/static/js/runtime-main.bb4424a7.js",
     "runtime-main.js.map": "/sevengalaxies-app/static/js/runtime-main.bb4424a7.js.map",
-    "static/js/2.587b26e1.chunk.js": "/sevengalaxies-app/static/js/2.587b26e1.chunk.js",
-    "static/js/2.587b26e1.chunk.js.map": "/sevengalaxies-app/static/js/2.587b26e1.chunk.js.map",
+    "static/js/2.9f1f5004.chunk.js": "/sevengalaxies-app/static/js/2.9f1f5004.chunk.js",
+    "static/js/2.9f1f5004.chunk.js.map": "/sevengalaxies-app/static/js/2.9f1f5004.chunk.js.map",
     "index.html": "/sevengalaxies-app/index.html",
-    "precache-manifest.e58004889cef1cbfbb34e3560ff9e6db.js": "/sevengalaxies-app/precache-manifest.e58004889cef1cbfbb34e3560ff9e6db.js",
+    "precache-manifest.134d5a9ea20dbc4cc724d6c17e908624.js": "/sevengalaxies-app/precache-manifest.134d5a9ea20dbc4cc724d6c17e908624.js",
     "service-worker.js": "/sevengalaxies-app/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/sevengalaxies-app/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.587b26e1.chunk.js.LICENSE.txt": "/sevengalaxies-app/static/js/2.587b26e1.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/sevengalaxies-app/static/media/logo.5d5d9eef.svg"
+    "static/css/main.5b37446e.chunk.css.map": "/sevengalaxies-app/static/css/main.5b37446e.chunk.css.map",
+    "static/js/2.9f1f5004.chunk.js.LICENSE.txt": "/sevengalaxies-app/static/js/2.9f1f5004.chunk.js.LICENSE.txt",
+    "static/media/global.css": "/sevengalaxies-app/static/media/Background-2.b76f9eb8.jpg",
+    "static/media/Logo.png": "/sevengalaxies-app/static/media/Logo.31fb0142.png"
   },
   "entrypoints": [
     "static/js/runtime-main.bb4424a7.js",
-    "static/js/2.587b26e1.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.7aa43e18.chunk.js"
+    "static/js/2.9f1f5004.chunk.js",
+    "static/css/main.5b37446e.chunk.css",
+    "static/js/main.8a152348.chunk.js"
   ]
 }
