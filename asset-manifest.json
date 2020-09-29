@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/sevengalaxies-app/static/css/main.f8ae14a4.chunk.css",
-    "main.js": "/sevengalaxies-app/static/js/main.ab5cb4c2.chunk.js",
-    "main.js.map": "/sevengalaxies-app/static/js/main.ab5cb4c2.chunk.js.map",
+    "main.js": "/sevengalaxies-app/static/js/main.70dab882.chunk.js",
+    "main.js.map": "/sevengalaxies-app/static/js/main.70dab882.chunk.js.map",
     "runtime-main.js": "/sevengalaxies-app/static/js/runtime-main.000d553b.js",
     "runtime-main.js.map": "/sevengalaxies-app/static/js/runtime-main.000d553b.js.map",
     "static/js/2.f4273c63.chunk.js": "/sevengalaxies-app/static/js/2.f4273c63.chunk.js",
     "static/js/2.f4273c63.chunk.js.map": "/sevengalaxies-app/static/js/2.f4273c63.chunk.js.map",
     "index.html": "/sevengalaxies-app/index.html",
-    "precache-manifest.3bfc13922d08c8948b90b066b2608b0f.js": "/sevengalaxies-app/precache-manifest.3bfc13922d08c8948b90b066b2608b0f.js",
+    "precache-manifest.4e66a1f7eb20b7401c7ea2cf4e7e12cc.js": "/sevengalaxies-app/precache-manifest.4e66a1f7eb20b7401c7ea2cf4e7e12cc.js",
     "service-worker.js": "/sevengalaxies-app/service-worker.js",
     "static/css/main.f8ae14a4.chunk.css.map": "/sevengalaxies-app/static/css/main.f8ae14a4.chunk.css.map",
     "static/js/2.f4273c63.chunk.js.LICENSE.txt": "/sevengalaxies-app/static/js/2.f4273c63.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.000d553b.js",
     "static/js/2.f4273c63.chunk.js",
     "static/css/main.f8ae14a4.chunk.css",
-    "static/js/main.ab5cb4c2.chunk.js"
+    "static/js/main.70dab882.chunk.js"
   ]
 }
