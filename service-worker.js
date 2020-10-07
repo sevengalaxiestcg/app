@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/sevengalaxies-app/precache-manifest.10866d6b8b0610d330a716b4e1896a3a.js"
+  "/sevengalaxies-app/precache-manifest.0db010d165e7ac346b72ad82a6fc0e1c.js"
 );
 
 self.addEventListener('message', (event) => {
