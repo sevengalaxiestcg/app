@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7cb860291979a4e23fada5e5bf07dd47",
+    "revision": "2a64040d896c1c5d1cabc9842f850b16",
     "url": "/sevengalaxies-app/index.html"
   },
   {
-    "revision": "88a7446c31efbc4fe3b1",
-    "url": "/sevengalaxies-app/static/css/main.107307bc.chunk.css"
+    "revision": "1b433532b07da06b0068",
+    "url": "/sevengalaxies-app/static/css/main.ace53289.chunk.css"
   },
   {
     "revision": "ea6b19b36560b8a96be0",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sevengalaxies-app/static/js/2.46756d5e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "88a7446c31efbc4fe3b1",
-    "url": "/sevengalaxies-app/static/js/main.18014453.chunk.js"
+    "revision": "1b433532b07da06b0068",
+    "url": "/sevengalaxies-app/static/js/main.e0579498.chunk.js"
   },
   {
     "revision": "b0130d28ff8a231120b9",
