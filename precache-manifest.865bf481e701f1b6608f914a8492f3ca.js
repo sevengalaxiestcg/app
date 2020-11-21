@@ -1,35 +1,35 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "dfc696d1ec6fb61bdded9ec4c89b28d1",
+    "revision": "09c013a4eb4668b83a20d2613358c28c",
     "url": "/sevengalaxies-app/index.html"
   },
   {
-    "revision": "a28f2f9333b8615e2fe5",
-    "url": "/sevengalaxies-app/static/css/main.d8c6c933.chunk.css"
+    "revision": "281d357bd19e3439bb99",
+    "url": "/sevengalaxies-app/static/css/main.b418c0c9.chunk.css"
   },
   {
-    "revision": "d3b095d10729580713bb",
-    "url": "/sevengalaxies-app/static/js/2.647d26aa.chunk.js"
+    "revision": "557a8805706322e86f2c",
+    "url": "/sevengalaxies-app/static/js/2.77b25aee.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/sevengalaxies-app/static/js/2.647d26aa.chunk.js.LICENSE.txt"
+    "url": "/sevengalaxies-app/static/js/2.77b25aee.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a28f2f9333b8615e2fe5",
-    "url": "/sevengalaxies-app/static/js/main.07644701.chunk.js"
+    "revision": "281d357bd19e3439bb99",
+    "url": "/sevengalaxies-app/static/js/main.ca1d6803.chunk.js"
   },
   {
     "revision": "b0130d28ff8a231120b9",
     "url": "/sevengalaxies-app/static/js/runtime-main.000d553b.js"
   },
   {
-    "revision": "b76f9eb8686875b49aa2d6b9710797b3",
-    "url": "/sevengalaxies-app/static/media/Background-2.b76f9eb8.jpg"
+    "revision": "e45a8ff7007c2c28832baea76d146b8a",
+    "url": "/sevengalaxies-app/static/media/+.e45a8ff7.png"
   },
   {
-    "revision": "59b9b4b66fa9f919365aec8fe05328eb",
-    "url": "/sevengalaxies-app/static/media/Background.59b9b4b6.jpg"
+    "revision": "762f5f7f6e3552cc90192ebab09846be",
+    "url": "/sevengalaxies-app/static/media/7g_01.762f5f7f.jpg"
   },
   {
     "revision": "6522ba93684bf5b49a7f2299541a71f2",
@@ -52,7 +52,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sevengalaxies-app/static/media/Nivel.ee9bc101.png"
   },
   {
-    "revision": "58d9c44dfcd138bcf6c66440b6225db6",
-    "url": "/sevengalaxies-app/static/media/treta-big.58d9c44d.png"
+    "revision": "bc40e17c80512241671ea532e79c3be7",
+    "url": "/sevengalaxies-app/static/media/Stroj_01.bc40e17c.jpg"
+  },
+  {
+    "revision": "add3e1764b198ae631681e41d9029571",
+    "url": "/sevengalaxies-app/static/media/teste3.add3e176.jpg"
   }
 ]);
