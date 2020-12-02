@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "09c013a4eb4668b83a20d2613358c28c",
+    "revision": "db7d31644f2a5cbe71393e355e30c25b",
     "url": "/sevengalaxies-app/index.html"
   },
   {
-    "revision": "281d357bd19e3439bb99",
-    "url": "/sevengalaxies-app/static/css/main.b418c0c9.chunk.css"
+    "revision": "10da43edc255703ebd68",
+    "url": "/sevengalaxies-app/static/css/main.5722506b.chunk.css"
   },
   {
-    "revision": "557a8805706322e86f2c",
-    "url": "/sevengalaxies-app/static/js/2.77b25aee.chunk.js"
+    "revision": "429089afde4df0bcd572",
+    "url": "/sevengalaxies-app/static/js/2.136f96ef.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/sevengalaxies-app/static/js/2.77b25aee.chunk.js.LICENSE.txt"
+    "url": "/sevengalaxies-app/static/js/2.136f96ef.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "281d357bd19e3439bb99",
-    "url": "/sevengalaxies-app/static/js/main.ca1d6803.chunk.js"
+    "revision": "10da43edc255703ebd68",
+    "url": "/sevengalaxies-app/static/js/main.e6de1f2d.chunk.js"
   },
   {
     "revision": "b0130d28ff8a231120b9",
@@ -38,10 +38,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ead6dfd610fd20e1f1e4d0b0b78087bf",
     "url": "/sevengalaxies-app/static/media/Fortaleza.ead6dfd6.png"
-  },
-  {
-    "revision": "31fb0142384df80458454037e06447a1",
-    "url": "/sevengalaxies-app/static/media/Logo.31fb0142.png"
   },
   {
     "revision": "35138d3267014ad5e707cec9c7c983c0",
