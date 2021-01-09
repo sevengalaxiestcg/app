@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "914412c7a0f90637d38bbe7fc0ee5fab",
+    "revision": "f905398f60e73ece7d415d73f8ba2843",
     "url": "/sevengalaxies-app/index.html"
   },
   {
-    "revision": "28e4b341602dece4314b",
-    "url": "/sevengalaxies-app/static/css/main.a46002ad.chunk.css"
+    "revision": "a63666411f17dac6bdec",
+    "url": "/sevengalaxies-app/static/css/main.7ed233e2.chunk.css"
   },
   {
-    "revision": "467d838f73d1f1a6c10e",
-    "url": "/sevengalaxies-app/static/js/2.ad7ecab7.chunk.js"
+    "revision": "d06951c49e77424422c8",
+    "url": "/sevengalaxies-app/static/js/2.fa0585ba.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/sevengalaxies-app/static/js/2.ad7ecab7.chunk.js.LICENSE.txt"
+    "url": "/sevengalaxies-app/static/js/2.fa0585ba.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "28e4b341602dece4314b",
-    "url": "/sevengalaxies-app/static/js/main.a913dccb.chunk.js"
+    "revision": "a63666411f17dac6bdec",
+    "url": "/sevengalaxies-app/static/js/main.a7c627b4.chunk.js"
   },
   {
     "revision": "b0130d28ff8a231120b9",
@@ -108,6 +108,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/sevengalaxies-app/static/media/SevenG_05.0f1d8ee7.jpg"
   },
   {
+    "revision": "6b8bce2caf4d24996261e4d33b271f6a",
+    "url": "/sevengalaxies-app/static/media/SevenG_06.6b8bce2c.jpg"
+  },
+  {
+    "revision": "6e72e8eb77c2f721df79bc860e4cfe40",
+    "url": "/sevengalaxies-app/static/media/Simbolo_Gaia.6e72e8eb.png"
+  },
+  {
+    "revision": "b7b08966311b4abf7f8a9f3178704dea",
+    "url": "/sevengalaxies-app/static/media/Simbolo_SevenG.b7b08966.png"
+  },
+  {
+    "revision": "4041f166877b17acc44e0234baeca68a",
+    "url": "/sevengalaxies-app/static/media/Simbolo_Stroj.4041f166.png"
+  },
+  {
     "revision": "1448def95baa5712eac24d547102e98e",
     "url": "/sevengalaxies-app/static/media/Stroj_01.1448def9.jpg"
   },
@@ -150,5 +166,17 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "52d2a49854dc5f686d04a4dfdae30e9a",
     "url": "/sevengalaxies-app/static/media/Stroj_11.52d2a498.jpg"
+  },
+  {
+    "revision": "146cb2cc03ce77ce9b8dffda326cc44c",
+    "url": "/sevengalaxies-app/static/media/Tema_Gaia.146cb2cc.jpg"
+  },
+  {
+    "revision": "247916e6d516e30e47ed5aced0caaab5",
+    "url": "/sevengalaxies-app/static/media/Tema_SevenG.247916e6.jpg"
+  },
+  {
+    "revision": "c84050d82bc640e48e18aeb8b32caed9",
+    "url": "/sevengalaxies-app/static/media/Tema_Stroj.c84050d8.jpg"
   }
 ]);

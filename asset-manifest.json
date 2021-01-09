@@ -1,26 +1,30 @@
 {
   "files": {
-    "main.css": "/sevengalaxies-app/static/css/main.a46002ad.chunk.css",
-    "main.js": "/sevengalaxies-app/static/js/main.a913dccb.chunk.js",
-    "main.js.map": "/sevengalaxies-app/static/js/main.a913dccb.chunk.js.map",
+    "main.css": "/sevengalaxies-app/static/css/main.7ed233e2.chunk.css",
+    "main.js": "/sevengalaxies-app/static/js/main.a7c627b4.chunk.js",
+    "main.js.map": "/sevengalaxies-app/static/js/main.a7c627b4.chunk.js.map",
     "runtime-main.js": "/sevengalaxies-app/static/js/runtime-main.000d553b.js",
     "runtime-main.js.map": "/sevengalaxies-app/static/js/runtime-main.000d553b.js.map",
-    "static/js/2.ad7ecab7.chunk.js": "/sevengalaxies-app/static/js/2.ad7ecab7.chunk.js",
-    "static/js/2.ad7ecab7.chunk.js.map": "/sevengalaxies-app/static/js/2.ad7ecab7.chunk.js.map",
+    "static/js/2.fa0585ba.chunk.js": "/sevengalaxies-app/static/js/2.fa0585ba.chunk.js",
+    "static/js/2.fa0585ba.chunk.js.map": "/sevengalaxies-app/static/js/2.fa0585ba.chunk.js.map",
     "index.html": "/sevengalaxies-app/index.html",
-    "precache-manifest.34c3106509c7daeada54e3163313c9ad.js": "/sevengalaxies-app/precache-manifest.34c3106509c7daeada54e3163313c9ad.js",
+    "precache-manifest.4238b3d61c31a157d89f9c3366ba2a81.js": "/sevengalaxies-app/precache-manifest.4238b3d61c31a157d89f9c3366ba2a81.js",
     "service-worker.js": "/sevengalaxies-app/service-worker.js",
-    "static/css/main.a46002ad.chunk.css.map": "/sevengalaxies-app/static/css/main.a46002ad.chunk.css.map",
-    "static/js/2.ad7ecab7.chunk.js.LICENSE.txt": "/sevengalaxies-app/static/js/2.ad7ecab7.chunk.js.LICENSE.txt",
+    "static/css/main.7ed233e2.chunk.css.map": "/sevengalaxies-app/static/css/main.7ed233e2.chunk.css.map",
+    "static/js/2.fa0585ba.chunk.js.LICENSE.txt": "/sevengalaxies-app/static/js/2.fa0585ba.chunk.js.LICENSE.txt",
     "static/media/+.png": "/sevengalaxies-app/static/media/+.e45a8ff7.png",
     "static/media/App.css": "/sevengalaxies-app/static/media/Nivel.ee9bc101.png",
     "static/media/Background.css": "/sevengalaxies-app/static/media/Stroj_11.52d2a498.jpg",
-    "static/media/Toolbar.css": "/sevengalaxies-app/static/media/Logo_wide.35138d32.png"
+    "static/media/Toolbar.css": "/sevengalaxies-app/static/media/Logo_wide.35138d32.png",
+    "static/media/Simbolo_Gaia.png": "/sevengalaxies-app/static/media/Simbolo_Gaia.6e72e8eb.png",
+    "static/media/Simbolo_SevenG.png": "/sevengalaxies-app/static/media/Simbolo_SevenG.b7b08966.png",
+    "static/media/Simbolo_Stroj.png": "/sevengalaxies-app/static/media/Simbolo_Stroj.4041f166.png",
+    "static/media/SelectTheme.css": "/sevengalaxies-app/static/media/Tema_Stroj.c84050d8.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.000d553b.js",
-    "static/js/2.ad7ecab7.chunk.js",
-    "static/css/main.a46002ad.chunk.css",
-    "static/js/main.a913dccb.chunk.js"
+    "static/js/2.fa0585ba.chunk.js",
+    "static/css/main.7ed233e2.chunk.css",
+    "static/js/main.a7c627b4.chunk.js"
   ]
 }
