@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/sevengalaxies-app/static/css/main.15076160.chunk.css",
-    "main.js": "/sevengalaxies-app/static/js/main.b95fee23.chunk.js",
-    "main.js.map": "/sevengalaxies-app/static/js/main.b95fee23.chunk.js.map",
+    "main.css": "/sevengalaxies-app/static/css/main.5f144a9e.chunk.css",
+    "main.js": "/sevengalaxies-app/static/js/main.25e7c92b.chunk.js",
+    "main.js.map": "/sevengalaxies-app/static/js/main.25e7c92b.chunk.js.map",
     "runtime-main.js": "/sevengalaxies-app/static/js/runtime-main.000d553b.js",
     "runtime-main.js.map": "/sevengalaxies-app/static/js/runtime-main.000d553b.js.map",
-    "static/js/2.c34f5979.chunk.js": "/sevengalaxies-app/static/js/2.c34f5979.chunk.js",
-    "static/js/2.c34f5979.chunk.js.map": "/sevengalaxies-app/static/js/2.c34f5979.chunk.js.map",
+    "static/js/2.27f6d1ae.chunk.js": "/sevengalaxies-app/static/js/2.27f6d1ae.chunk.js",
+    "static/js/2.27f6d1ae.chunk.js.map": "/sevengalaxies-app/static/js/2.27f6d1ae.chunk.js.map",
     "index.html": "/sevengalaxies-app/index.html",
-    "precache-manifest.8dad05bc84c8c5dcaffd418b986dbd5a.js": "/sevengalaxies-app/precache-manifest.8dad05bc84c8c5dcaffd418b986dbd5a.js",
+    "precache-manifest.c6331d8a0209e96e4de708bbfceef131.js": "/sevengalaxies-app/precache-manifest.c6331d8a0209e96e4de708bbfceef131.js",
     "service-worker.js": "/sevengalaxies-app/service-worker.js",
-    "static/css/main.15076160.chunk.css.map": "/sevengalaxies-app/static/css/main.15076160.chunk.css.map",
-    "static/js/2.c34f5979.chunk.js.LICENSE.txt": "/sevengalaxies-app/static/js/2.c34f5979.chunk.js.LICENSE.txt",
+    "static/css/main.5f144a9e.chunk.css.map": "/sevengalaxies-app/static/css/main.5f144a9e.chunk.css.map",
+    "static/js/2.27f6d1ae.chunk.js.LICENSE.txt": "/sevengalaxies-app/static/js/2.27f6d1ae.chunk.js.LICENSE.txt",
     "static/media/+.png": "/sevengalaxies-app/static/media/+.e45a8ff7.png",
     "static/media/App.css": "/sevengalaxies-app/static/media/Tema_Stroj.c84050d8.jpg",
     "static/media/Background.css": "/sevengalaxies-app/static/media/Stroj_11.52d2a498.jpg",
@@ -22,8 +22,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.000d553b.js",
-    "static/js/2.c34f5979.chunk.js",
-    "static/css/main.15076160.chunk.css",
-    "static/js/main.b95fee23.chunk.js"
+    "static/js/2.27f6d1ae.chunk.js",
+    "static/css/main.5f144a9e.chunk.css",
+    "static/js/main.25e7c92b.chunk.js"
   ]
 }
