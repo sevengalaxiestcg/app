@@ -38,10 +38,52 @@
       "type": "image/png"
     }
   ],
+  "screenshots": [
+    {
+      "src": "images/screenshots/screenshot-1.jpg",
+      "sizes": "720x1280",
+      "type": "image/jpg"
+    },
+    {
+      "src": "images/screenshots/screenshot-1-1.jpg",
+      "sizes": "1080x880",
+      "type": "image/jpg"
+    },
+    {
+      "src": "images/screenshots/screenshot-2.jpg",
+      "sizes": "720x1280",
+      "type": "image/jpg"
+    },
+    {
+      "src": "images/screenshots/screenshot-2-1.jpg",
+      "sizes": "1080x880",
+      "type": "image/jpg"
+    },
+    {
+      "src": "images/screenshots/screenshot-3.jpg",
+      "sizes": "720x1280",
+      "type": "image/jpg"
+    },
+    {
+      "src": "images/screenshots/screenshot-3-1.jpg",
+      "sizes": "1080x880",
+      "type": "image/jpg"
+    },
+    {
+      "src": "images/screenshots/screenshot-4.jpg",
+      "sizes": "720x1280",
+      "type": "image/jpg"
+    },
+    {
+      "src": "images/screenshots/screenshot-4-1.jpg",
+      "sizes": "1080x880",
+      "type": "image/jpg"
+    }
+  ],
   "start_url": ".",
   "lang": "Portuguese",
   "display": "fullscreen",
   "orientation": "portrait-primary",
   "theme_color": "#000000",
-  "background_color": "transparent"
+  "background_color": "#000000"
 }
