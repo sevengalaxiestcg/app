@@ -39,7 +39,9 @@
     }
   ],
   "start_url": ".",
+  "lang": "Portuguese",
   "display": "fullscreen",
+  "orientation": "portrait-primary",
   "theme_color": "#000000",
-  "background_color": "#000000"
+  "background_color": "transparent"
 }
