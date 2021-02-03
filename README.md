@@ -6,7 +6,7 @@ Desenvolvido com ReactJS (Create React App) e otimizado para todas as plataforma
 
 #ReactJS 
 #PWA 
-#Responive 
+#Responsive 
 
 powered by AndreGT500.
 
