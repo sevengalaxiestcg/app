@@ -1,30 +1,31 @@
 {
   "files": {
-    "main.css": "/app/static/css/main.73232380.chunk.css",
-    "main.js": "/app/static/js/main.fa5e158f.chunk.js",
-    "main.js.map": "/app/static/js/main.fa5e158f.chunk.js.map",
+    "main.css": "/app/static/css/main.39d620b3.chunk.css",
+    "main.js": "/app/static/js/main.b77067cb.chunk.js",
+    "main.js.map": "/app/static/js/main.b77067cb.chunk.js.map",
     "runtime-main.js": "/app/static/js/runtime-main.95af9303.js",
     "runtime-main.js.map": "/app/static/js/runtime-main.95af9303.js.map",
-    "static/js/2.70dddbce.chunk.js": "/app/static/js/2.70dddbce.chunk.js",
-    "static/js/2.70dddbce.chunk.js.map": "/app/static/js/2.70dddbce.chunk.js.map",
+    "static/js/2.def82ddb.chunk.js": "/app/static/js/2.def82ddb.chunk.js",
+    "static/js/2.def82ddb.chunk.js.map": "/app/static/js/2.def82ddb.chunk.js.map",
     "index.html": "/app/index.html",
-    "precache-manifest.228b4ccd3392881fab6a54f8fec3ebde.js": "/app/precache-manifest.228b4ccd3392881fab6a54f8fec3ebde.js",
+    "precache-manifest.5f15bc1e378ffcb83b5495cede6b6456.js": "/app/precache-manifest.5f15bc1e378ffcb83b5495cede6b6456.js",
     "service-worker.js": "/app/service-worker.js",
-    "static/css/main.73232380.chunk.css.map": "/app/static/css/main.73232380.chunk.css.map",
-    "static/js/2.70dddbce.chunk.js.LICENSE.txt": "/app/static/js/2.70dddbce.chunk.js.LICENSE.txt",
+    "static/css/main.39d620b3.chunk.css.map": "/app/static/css/main.39d620b3.chunk.css.map",
+    "static/js/2.def82ddb.chunk.js.LICENSE.txt": "/app/static/js/2.def82ddb.chunk.js.LICENSE.txt",
     "static/media/+.png": "/app/static/media/+.e45a8ff7.png",
-    "static/media/App.css": "/app/static/media/Tema_Stroj.c84050d8.jpg",
-    "static/media/Background.css": "/app/static/media/Stroj_11.52d2a498.jpg",
+    "static/media/App.css": "/app/static/media/Nivel.ee9bc101.png",
+    "static/media/Background.css": "/app/static/media/Stroj_15.52d2a498.jpg",
     "static/media/Toolbar.css": "/app/static/media/Logo_wide.35138d32.png",
     "static/media/Simbolo_Gaia.png": "/app/static/media/Simbolo_Gaia.6e72e8eb.png",
     "static/media/Simbolo_SevenG.png": "/app/static/media/Simbolo_SevenG.b7b08966.png",
     "static/media/Simbolo_Stroj.png": "/app/static/media/Simbolo_Stroj.4041f166.png",
+    "static/media/SelectTheme.css": "/app/static/media/Tema_Stroj.1b880cb0.jpg",
     "static/media/MyFontsWebfontsKit.css": "/app/static/media/font.cf9cee74.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.95af9303.js",
-    "static/js/2.70dddbce.chunk.js",
-    "static/css/main.73232380.chunk.css",
-    "static/js/main.fa5e158f.chunk.js"
+    "static/js/2.def82ddb.chunk.js",
+    "static/css/main.39d620b3.chunk.css",
+    "static/js/main.b77067cb.chunk.js"
   ]
 }
