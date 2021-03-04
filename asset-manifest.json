@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/app/static/css/main.70316e0a.chunk.css",
-    "main.js": "/app/static/js/main.df08e446.chunk.js",
-    "main.js.map": "/app/static/js/main.df08e446.chunk.js.map",
+    "main.js": "/app/static/js/main.51bcdf05.chunk.js",
+    "main.js.map": "/app/static/js/main.51bcdf05.chunk.js.map",
     "runtime-main.js": "/app/static/js/runtime-main.95af9303.js",
     "runtime-main.js.map": "/app/static/js/runtime-main.95af9303.js.map",
-    "static/js/2.88e9a39a.chunk.js": "/app/static/js/2.88e9a39a.chunk.js",
-    "static/js/2.88e9a39a.chunk.js.map": "/app/static/js/2.88e9a39a.chunk.js.map",
+    "static/js/2.09f6e616.chunk.js": "/app/static/js/2.09f6e616.chunk.js",
+    "static/js/2.09f6e616.chunk.js.map": "/app/static/js/2.09f6e616.chunk.js.map",
     "index.html": "/app/index.html",
-    "precache-manifest.adf4379e192d921ef8332a08fc649538.js": "/app/precache-manifest.adf4379e192d921ef8332a08fc649538.js",
+    "precache-manifest.fce4b7595aa47a494ec7f25249790b87.js": "/app/precache-manifest.fce4b7595aa47a494ec7f25249790b87.js",
     "service-worker.js": "/app/service-worker.js",
     "static/css/main.70316e0a.chunk.css.map": "/app/static/css/main.70316e0a.chunk.css.map",
-    "static/js/2.88e9a39a.chunk.js.LICENSE.txt": "/app/static/js/2.88e9a39a.chunk.js.LICENSE.txt",
+    "static/js/2.09f6e616.chunk.js.LICENSE.txt": "/app/static/js/2.09f6e616.chunk.js.LICENSE.txt",
     "static/media/+.png": "/app/static/media/+.e45a8ff7.png",
     "static/media/App.css": "/app/static/media/Nivel.ee9bc101.png",
     "static/media/Background.css": "/app/static/media/Stroj_15.52d2a498.jpg",
@@ -20,13 +20,12 @@
     "static/media/Simbolo_SevenG.png": "/app/static/media/Simbolo_SevenG.b7b08966.png",
     "static/media/Simbolo_Stroj.png": "/app/static/media/Simbolo_Stroj.4041f166.png",
     "static/media/SelectTheme.css": "/app/static/media/Tema_Stroj.1b880cb0.jpg",
-    "static/media/MyFontsWebfontsKit.css": "/app/static/media/font.cf9cee74.woff2",
-    "static/media/manual.pdf": "/app/static/media/manual.900bc886.pdf"
+    "static/media/MyFontsWebfontsKit.css": "/app/static/media/font.cf9cee74.woff2"
   },
   "entrypoints": [
     "static/js/runtime-main.95af9303.js",
-    "static/js/2.88e9a39a.chunk.js",
+    "static/js/2.09f6e616.chunk.js",
     "static/css/main.70316e0a.chunk.css",
-    "static/js/main.df08e446.chunk.js"
+    "static/js/main.51bcdf05.chunk.js"
   ]
 }
