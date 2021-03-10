@@ -1,6 +1,11 @@
 {
   "short_name": "Seven Galaxies",
   "name": "Seven Galaxies",
+  "categories": [
+    "games",
+    "cardgames",
+    "entertainment"
+  ],
   "icons": [
     {
       "src": "images/icons/48x48.png",
