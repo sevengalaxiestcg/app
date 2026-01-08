@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3c9137e34686d6b0a60b475990168a83",
+    "revision": "7faa085b5789db8efef69f158a300435",
     "url": "/app/index.html"
   },
   {
-    "revision": "7b4e5b9f09c4c4fb7912",
-    "url": "/app/static/css/main.ed4a8a90.chunk.css"
+    "revision": "5fcdf0342b1bfffd1932",
+    "url": "/app/static/css/main.0ff3aa3b.chunk.css"
   },
   {
-    "revision": "97ee528e8f58dd21f457",
-    "url": "/app/static/js/2.220bff32.chunk.js"
+    "revision": "67773e3873952c5d47ea",
+    "url": "/app/static/js/2.95ce6945.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/app/static/js/2.220bff32.chunk.js.LICENSE.txt"
+    "url": "/app/static/js/2.95ce6945.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7b4e5b9f09c4c4fb7912",
-    "url": "/app/static/js/main.a10b6c96.chunk.js"
+    "revision": "5fcdf0342b1bfffd1932",
+    "url": "/app/static/js/main.f30c5cc3.chunk.js"
   },
   {
     "revision": "fb683d993c694aeb9312",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e45a8ff7007c2c28832baea76d146b8a",
     "url": "/app/static/media/+.e45a8ff7.png"
+  },
+  {
+    "revision": "f9e8de259f92e522a6af2970ab653cd5",
+    "url": "/app/static/media/A1-1-Bylub-cod83-B.f9e8de25.png"
   },
   {
     "revision": "ac11fd44df1f972acdabc9c35b739193",
@@ -80,6 +84,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/static/media/A1-20-Qhizol-cod118.0fb90a0d.png"
   },
   {
+    "revision": "00e9b567d193c25262c61279e849cf94",
+    "url": "/app/static/media/A1-21-Uzen-cod119-B.00e9b567.png"
+  },
+  {
     "revision": "0ff3cd4baff3be111d2439a81c86b729",
     "url": "/app/static/media/A1-21-Uzen-cod119.0ff3cd4b.png"
   },
@@ -128,6 +136,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/static/media/A1-31-Tetrak-cod139.d091153f.png"
   },
   {
+    "revision": "f54261f872e02c03075d57249a20d7d0",
+    "url": "/app/static/media/A1-32-Deskderb-cod140-B.f54261f8.png"
+  },
+  {
     "revision": "d814dadfe34ef8efde9b1cd37dcbe364",
     "url": "/app/static/media/A1-32-Deskderb-cod140.d814dadf.png"
   },
@@ -138,6 +150,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "a380fc1ca2cf5dd61b6d2166206744a6",
     "url": "/app/static/media/A1-34-Retaliação-Feroz-cod142.a380fc1c.png"
+  },
+  {
+    "revision": "89975aa6ff1141464d29c51dbc1bd1b6",
+    "url": "/app/static/media/A1-35-Luzzen-cod143-B.89975aa6.png"
   },
   {
     "revision": "875fbd7a8900a9df63185fb21c7306a8",
@@ -284,6 +300,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/static/media/G1-1-Themis-Althea-cod21.16485c9a.png"
   },
   {
+    "revision": "c5268138752b62b7fc40490d39fcc374",
+    "url": "/app/static/media/G1-10-Alana Dimitris-cod30-B.c5268138.png"
+  },
+  {
     "revision": "ae182f2d3832ad2c3b866ef7fcfe9450",
     "url": "/app/static/media/G1-10-Alana-Dimitris-cod30.ae182f2d.png"
   },
@@ -340,6 +360,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/static/media/G1-22-Nohely-Kaligaris-cod53.38c622ba.png"
   },
   {
+    "revision": "1472d8c5218e465be7e6898b1eef01bb",
+    "url": "/app/static/media/G1-23-Yrís-Hatzis-cod54-B.1472d8c5.png"
+  },
+  {
     "revision": "91d4bbd0aaf0bba8876d37829ca7c87e",
     "url": "/app/static/media/G1-23-Yrís-Hatzis-cod54.91d4bbd0.png"
   },
@@ -380,28 +404,60 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/static/media/G1-31-Maya-Myron-cod62.25d50692.png"
   },
   {
-    "revision": "5710c2a8aa4ae78c94723f8474d52232",
-    "url": "/app/static/media/G1-32-Norah-Kallis-cod67.5710c2a8.png"
+    "revision": "aa919bb213414f4e60accbdaf1553917",
+    "url": "/app/static/media/G1-32-Norah-Kallis-cod67.aa919bb2.png"
   },
   {
-    "revision": "74c6304785096b2b736025bf3ea66eb0",
-    "url": "/app/static/media/G1-33-Aurora-Roussou-cod68.74c63047.png"
+    "revision": "0324756c3dad7c11df6a64a88ba99af9",
+    "url": "/app/static/media/G1-33-Aurora Roussou-cod68-B.0324756c.png"
   },
   {
-    "revision": "110f359313afdc2c51dcba3a4bc420f6",
-    "url": "/app/static/media/G1-34-Machado da Aurora-cod69.110f3593.png"
+    "revision": "384515211678804814a382b69c98201b",
+    "url": "/app/static/media/G1-33-Aurora-Roussou-cod68.38451521.png"
+  },
+  {
+    "revision": "2ad7499c12c9746654f7dbb7a5563e5f",
+    "url": "/app/static/media/G1-34-Machado da Aurora-cod69.2ad7499c.png"
+  },
+  {
+    "revision": "46fc71b4d979574cc95615a19747f661",
+    "url": "/app/static/media/G1-35-Katherine Adamopoulos-Ev-cod70.46fc71b4.png"
   },
   {
     "revision": "330aae80ab6a59a26d43c45cfaea5914",
     "url": "/app/static/media/G1-35-Katherine-Adamopoulos-cod70.330aae80.png"
   },
   {
-    "revision": "64c22158b043f319594eb923b5bd95ef",
-    "url": "/app/static/media/G1-36-Chuva-de-Flechas-cod72.64c22158.png"
+    "revision": "367ef48263a7d97b1f7845f6a46741c9",
+    "url": "/app/static/media/G1-36-Chuva-de-Flechas-cod72.367ef482.png"
+  },
+  {
+    "revision": "d4bfa8a7d627ea47cedde3da47a0e507",
+    "url": "/app/static/media/G1-37-Hillare-Philemon-cod78.d4bfa8a7.png"
+  },
+  {
+    "revision": "612a0731abda369ab5018db19f9cac0f",
+    "url": "/app/static/media/G1-38-Esconderijo-das-Amazonas-cod79.612a0731.png"
+  },
+  {
+    "revision": "c47939bdea0ba5ec81d39480f140da58",
+    "url": "/app/static/media/G1-39-Ataque-Simultâneo-das-Amazonas-cod80.c47939bd.png"
   },
   {
     "revision": "058e8ed2ef853b9eacd8b3e284a263ea",
     "url": "/app/static/media/G1-4-Heleen-Herod-cod24.058e8ed2.png"
+  },
+  {
+    "revision": "9df9b21206efa5cabe4807feb2bff163",
+    "url": "/app/static/media/G1-40-Tamesis-Acalântis-cod81-B.9df9b212.png"
+  },
+  {
+    "revision": "1ac912133dbfaecf87118d28e55782c6",
+    "url": "/app/static/media/G1-40-Tamesis-Acalântis-cod81.1ac91213.png"
+  },
+  {
+    "revision": "722b1489e0b476b75b1ae8b826c1e1be",
+    "url": "/app/static/media/G1-41-Hillare-Philemon-Ev-cod82.722b1489.png"
   },
   {
     "revision": "dc2903c0c6919288a1b07a0511449f67",
@@ -548,12 +604,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/static/media/M1-15-Espelhamento-Arcano-cod114.cb8b0ba6.png"
   },
   {
+    "revision": "b87f05d6028d1eb075163e3285a038f9",
+    "url": "/app/static/media/M1-16-Yazaroth-cod115-B.b87f05d6.png"
+  },
+  {
     "revision": "2cf6a251ef3dcfa0a11ad4568e7618b1",
     "url": "/app/static/media/M1-16-Yazaroth-cod115.2cf6a251.png"
   },
   {
     "revision": "b14fc4d1fce2330138581041af6c9c18",
     "url": "/app/static/media/M1-17-Furtóvi-cod126.b14fc4d1.png"
+  },
+  {
+    "revision": "8a74a0fd92fc68629f26ade79846b78e",
+    "url": "/app/static/media/M1-18-Ariela-Baji-cod127-B.8a74a0fd.png"
   },
   {
     "revision": "2a59b1c43b62a04ef0e6b34693b06fe6",
@@ -612,6 +676,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/static/media/M1-3-Gabyno-Ogam-cod102.7f1a9cb7.png"
   },
   {
+    "revision": "46703eb203eef3e66370bc67915605f3",
+    "url": "/app/static/media/M1-30-Worgnulf-cod149-B.46703eb2.png"
+  },
+  {
     "revision": "e26327d719c36200a856e0e8df693107",
     "url": "/app/static/media/M1-30-Worgnulf-cod149.e26327d7.png"
   },
@@ -626,6 +694,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fc809748232b6e364f40eb7bd28d9880",
     "url": "/app/static/media/M1-33-Fúria-do-Dragão-cod152.fc809748.png"
+  },
+  {
+    "revision": "4ddd486012de17fef8a8aa0ccce09b5b",
+    "url": "/app/static/media/M1-34-Wyn-Arsalis-cod153-B.4ddd4860.png"
   },
   {
     "revision": "5eb980b04c3950826ba118b09a9cc69c",
@@ -840,6 +912,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/static/media/S1-27-Crottanox-cod47.2f6e888b.png"
   },
   {
+    "revision": "860eb32da57b6b97bb98ad82fb0a1491",
+    "url": "/app/static/media/S1-28-Phroniac-cod48-B.860eb32d.png"
+  },
+  {
     "revision": "7d50522afa837d0cd42e5559680a5c34",
     "url": "/app/static/media/S1-28-Phroniac-cod48.7d50522a.png"
   },
@@ -860,28 +936,64 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/static/media/S1-31-Zardok-cod51.3c1be30e.png"
   },
   {
-    "revision": "b82c7269bbf23303b477ceda8d52b5c3",
-    "url": "/app/static/media/S1-32-Wormyd-cod63.b82c7269.png"
+    "revision": "79c4ce5b7adf6ef71f78754a527e2de9",
+    "url": "/app/static/media/S1-32-Wormyd-cod63.79c4ce5b.png"
   },
   {
-    "revision": "13b9de8bad62e0d90054800bc0627c4c",
-    "url": "/app/static/media/S1-33-Zartroworb-cod64.13b9de8b.png"
+    "revision": "2dd30001638d73a3bad5dca27665f173",
+    "url": "/app/static/media/S1-33-Zartroworb-cod64.2dd30001.png"
   },
   {
-    "revision": "8c9398fb87728fcc3118546a75e2af1f",
-    "url": "/app/static/media/S1-34-Trowerbell-cod65.8c9398fb.png"
+    "revision": "cda77620a77c634a583374f927f801f8",
+    "url": "/app/static/media/S1-34-Trowerbell-cod65.cda77620.png"
+  },
+  {
+    "revision": "059fbe895180d7005110bb894fcbb6e5",
+    "url": "/app/static/media/S1-35-Phroniac-Ev-cod66-B.059fbe89.png"
+  },
+  {
+    "revision": "01a65fc4c160048948be08fa10d8a4b2",
+    "url": "/app/static/media/S1-35-Phroniac-Ev-cod66.01a65fc4.png"
   },
   {
     "revision": "699c8ce39c7081f634625efeaa95ed75",
     "url": "/app/static/media/S1-35-Phroniac-cod66.699c8ce3.png"
   },
   {
+    "revision": "b95e494b735d568b3bab77185507eea8",
+    "url": "/app/static/media/S1-36-Explosão Goldroniana-cod71.b95e494b.png"
+  },
+  {
     "revision": "4ac5fb179daba7e7ef6dc38cf1cd7b46",
     "url": "/app/static/media/S1-36-Explosão-Goldroniana-cod71.4ac5fb17.png"
   },
   {
+    "revision": "5cfded099f5708333ab25a937c0d8f98",
+    "url": "/app/static/media/S1-37-Gowba-cod73.5cfded09.png"
+  },
+  {
+    "revision": "88946572cdb81f93185e43af519c5588",
+    "url": "/app/static/media/S1-38-Morgev-cod74.88946572.png"
+  },
+  {
+    "revision": "482d8fb87ec05042dddabd15804a4907",
+    "url": "/app/static/media/S1-39-Rajada-de-Energia-cod75.482d8fb8.png"
+  },
+  {
     "revision": "f0cf2a285f7319c6664f306fe0ba805e",
     "url": "/app/static/media/S1-4-Dogorb-cod4.f0cf2a28.png"
+  },
+  {
+    "revision": "fd29975160e0148421cccd09d4ad48f2",
+    "url": "/app/static/media/S1-40-Reyzar-cod76-B.fd299751.png"
+  },
+  {
+    "revision": "54ec4d37bcffb35ca24a514dc2e303e6",
+    "url": "/app/static/media/S1-40-Reyzar-cod76.54ec4d37.png"
+  },
+  {
+    "revision": "6078d9416d07fc1bf9758c1a6a897507",
+    "url": "/app/static/media/S1-41-Nergyzzak-Ev-cod77.6078d941.png"
   },
   {
     "revision": "eacfd5da933342023660885f6d185bea",
@@ -894,6 +1006,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "50af66bfe4d2301d9dd430d4d38cb280",
     "url": "/app/static/media/S1-7-Beltrozz-cod7.50af66bf.png"
+  },
+  {
+    "revision": "a690ab24f13089acb88f3f559321d7a8",
+    "url": "/app/static/media/S1-8-Garjix-cod8-B.a690ab24.png"
   },
   {
     "revision": "56e663c6c640c3cc00bc97c5d21b9d75",
