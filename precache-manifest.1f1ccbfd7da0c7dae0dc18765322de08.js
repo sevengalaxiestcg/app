@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fd5170343733481d77aee431fbcd049b",
+    "revision": "b7261dec7a42f5bdf3f5775fc64e736d",
     "url": "/app/index.html"
   },
   {
-    "revision": "180fe8a57985fab2069d",
-    "url": "/app/static/css/main.ed4a8a90.chunk.css"
+    "revision": "311e1a9c670c6e2b458e",
+    "url": "/app/static/css/main.0ff3aa3b.chunk.css"
   },
   {
-    "revision": "8e59a9a09d8214935057",
-    "url": "/app/static/js/2.84a382cc.chunk.js"
+    "revision": "c7bb1db39ccd30b50bc3",
+    "url": "/app/static/js/2.e7d7d353.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/app/static/js/2.84a382cc.chunk.js.LICENSE.txt"
+    "url": "/app/static/js/2.e7d7d353.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "180fe8a57985fab2069d",
-    "url": "/app/static/js/main.1eb28b5d.chunk.js"
+    "revision": "311e1a9c670c6e2b458e",
+    "url": "/app/static/js/main.9c9439e9.chunk.js"
   },
   {
     "revision": "fb683d993c694aeb9312",
@@ -62,6 +62,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0ee6b026c08ddef6042891439672be5f",
     "url": "/app/static/media/A1-16-Kalberus-cod98.0ee6b026.png"
+  },
+  {
+    "revision": "f30b15dd515dcbad761d94c44df2e640",
+    "url": "/app/static/media/A1-17-Kal-Belzeruk-Ev-cod99.f30b15dd.png"
   },
   {
     "revision": "f03758d300b6ee7f2d551c46a8bbe3c8",
@@ -110,6 +114,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3bd21f8cf441fbb3964e63b5d49d65cd",
     "url": "/app/static/media/A1-26-Upgrade-das-Naves-cod124.3bd21f8c.png"
+  },
+  {
+    "revision": "2037ec2f17572abcde8e7dffc493ae27",
+    "url": "/app/static/media/A1-27-Groxxyn-Ev-cod125.2037ec2f.png"
   },
   {
     "revision": "9b3adf164aae64083bff8e6a47d25ad4",
@@ -194,6 +202,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "98fa60d89fa153a30b1c069d6226006a",
     "url": "/app/static/media/A1-F1-Zyberion Nexus-codF3.98fa60d8.png"
+  },
+  {
+    "revision": "c071a3cd9cc6d70ec47a3266b8372dd4",
+    "url": "/app/static/media/A1-F1-Zyberion-Nexus-codF3.c071a3cd.png"
   },
   {
     "revision": "cb5710edb07ed2991a520dc6310452ff",
@@ -612,6 +624,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/static/media/M1-16-Yazaroth-cod115.2cf6a251.png"
   },
   {
+    "revision": "1d5fd36c032bdee567d570a9d029bd97",
+    "url": "/app/static/media/M1-16-Yazorath-Ev-cod115.1d5fd36c.png"
+  },
+  {
     "revision": "b14fc4d1fce2330138581041af6c9c18",
     "url": "/app/static/media/M1-17-Furtóvi-cod126.b14fc4d1.png"
   },
@@ -626,6 +642,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0035de5c9fb282edaee3b1d8b54127e6",
     "url": "/app/static/media/M1-19-Öthuren Djelko-cod128.0035de5c.png"
+  },
+  {
+    "revision": "a9c8b0eac95fd94f4e52ddc13af4ea12",
+    "url": "/app/static/media/M1-19-Öthuren-Djelko-cod128.a9c8b0ea.png"
   },
   {
     "revision": "909d1d1930764472cca3fd189c7d0753",
@@ -654,6 +674,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "72574d2af206191bd69bd7b9b3d54f99",
     "url": "/app/static/media/M1-25-Ertus-Desgarrada-cod134.72574d2a.png"
+  },
+  {
+    "revision": "ea28d12f0c64bcbf9e0cf6595a27d20a",
+    "url": "/app/static/media/M1-26-Halfdan-Galadris-Ev-cod135.ea28d12f.png"
   },
   {
     "revision": "d5203272756b4be5a73790a5c9f6eb81",
@@ -734,6 +758,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "3ebcfaa79c3884acb83fef8e2e06c9cd",
     "url": "/app/static/media/M1-9-Zakan-O-Gladiador-cod108.3ebcfaa7.png"
+  },
+  {
+    "revision": "4d27ed6d2c4108877173f1f42d2cd801",
+    "url": "/app/static/media/M1-F1-Templo-da- Magia-Arcana-codF4.4d27ed6d.png"
   },
   {
     "revision": "e4b503d34b7d363f528190d013c2263d",
