@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b7261dec7a42f5bdf3f5775fc64e736d",
+    "revision": "bf0f1dd21dd94818a81362ec2facf319",
     "url": "/app/index.html"
   },
   {
-    "revision": "311e1a9c670c6e2b458e",
+    "revision": "b7b2aaed1e1ba3cfc49e",
     "url": "/app/static/css/main.0ff3aa3b.chunk.css"
   },
   {
-    "revision": "c7bb1db39ccd30b50bc3",
-    "url": "/app/static/js/2.e7d7d353.chunk.js"
+    "revision": "b4b512ea582e049ae9a7",
+    "url": "/app/static/js/2.a3514c78.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/app/static/js/2.e7d7d353.chunk.js.LICENSE.txt"
+    "url": "/app/static/js/2.a3514c78.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "311e1a9c670c6e2b458e",
-    "url": "/app/static/js/main.9c9439e9.chunk.js"
+    "revision": "b7b2aaed1e1ba3cfc49e",
+    "url": "/app/static/js/main.c727f87b.chunk.js"
   },
   {
     "revision": "fb683d993c694aeb9312",
@@ -202,10 +202,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "98fa60d89fa153a30b1c069d6226006a",
     "url": "/app/static/media/A1-F1-Zyberion Nexus-codF3.98fa60d8.png"
-  },
-  {
-    "revision": "c071a3cd9cc6d70ec47a3266b8372dd4",
-    "url": "/app/static/media/A1-F1-Zyberion-Nexus-codF3.c071a3cd.png"
   },
   {
     "revision": "cb5710edb07ed2991a520dc6310452ff",
@@ -425,7 +421,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "384515211678804814a382b69c98201b",
-    "url": "/app/static/media/G1-33-Aurora-Roussou-cod68.38451521.png"
+    "url": "/app/static/media/G1-33-Aurora Roussou-cod68.38451521.png"
   },
   {
     "revision": "2ad7499c12c9746654f7dbb7a5563e5f",
@@ -437,7 +433,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "330aae80ab6a59a26d43c45cfaea5914",
-    "url": "/app/static/media/G1-35-Katherine-Adamopoulos-cod70.330aae80.png"
+    "url": "/app/static/media/G1-35-Katherine Adamopoulos-cod70.330aae80.png"
   },
   {
     "revision": "367ef48263a7d97b1f7845f6a46741c9",
@@ -760,10 +756,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/app/static/media/M1-9-Zakan-O-Gladiador-cod108.3ebcfaa7.png"
   },
   {
-    "revision": "4d27ed6d2c4108877173f1f42d2cd801",
-    "url": "/app/static/media/M1-F1-Templo-da- Magia-Arcana-codF4.4d27ed6d.png"
-  },
-  {
     "revision": "e4b503d34b7d363f528190d013c2263d",
     "url": "/app/static/media/M1-F1-Templo-da-Magia-Arcana-codF4.e4b503d3.png"
   },
@@ -990,10 +982,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b95e494b735d568b3bab77185507eea8",
     "url": "/app/static/media/S1-36-Explosão Goldroniana-cod71.b95e494b.png"
-  },
-  {
-    "revision": "4ac5fb179daba7e7ef6dc38cf1cd7b46",
-    "url": "/app/static/media/S1-36-Explosão-Goldroniana-cod71.4ac5fb17.png"
   },
   {
     "revision": "5cfded099f5708333ab25a937c0d8f98",
