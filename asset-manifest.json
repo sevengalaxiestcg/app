@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/app/static/css/main.0ff3aa3b.chunk.css",
-    "main.js": "/app/static/js/main.c727f87b.chunk.js",
-    "main.js.map": "/app/static/js/main.c727f87b.chunk.js.map",
+    "main.js": "/app/static/js/main.d992a4c6.chunk.js",
+    "main.js.map": "/app/static/js/main.d992a4c6.chunk.js.map",
     "runtime-main.js": "/app/static/js/runtime-main.95af9303.js",
     "runtime-main.js.map": "/app/static/js/runtime-main.95af9303.js.map",
-    "static/js/2.a3514c78.chunk.js": "/app/static/js/2.a3514c78.chunk.js",
-    "static/js/2.a3514c78.chunk.js.map": "/app/static/js/2.a3514c78.chunk.js.map",
+    "static/js/2.babd20b5.chunk.js": "/app/static/js/2.babd20b5.chunk.js",
+    "static/js/2.babd20b5.chunk.js.map": "/app/static/js/2.babd20b5.chunk.js.map",
     "index.html": "/app/index.html",
-    "precache-manifest.990ef59047dabf31543853d40d3cdd97.js": "/app/precache-manifest.990ef59047dabf31543853d40d3cdd97.js",
+    "precache-manifest.8066526532fcecdff6158344339fd61c.js": "/app/precache-manifest.8066526532fcecdff6158344339fd61c.js",
     "service-worker.js": "/app/service-worker.js",
     "static/css/main.0ff3aa3b.chunk.css.map": "/app/static/css/main.0ff3aa3b.chunk.css.map",
-    "static/js/2.a3514c78.chunk.js.LICENSE.txt": "/app/static/js/2.a3514c78.chunk.js.LICENSE.txt",
+    "static/js/2.babd20b5.chunk.js.LICENSE.txt": "/app/static/js/2.babd20b5.chunk.js.LICENSE.txt",
     "static/media/+.png": "/app/static/media/+.e45a8ff7.png",
     "static/media/A1-1-Bylub-cod83-B.png": "/app/static/media/A1-1-Bylub-cod83-B.f9e8de25.png",
     "static/media/A1-1-Bylub-cod83.png": "/app/static/media/A1-1-Bylub-cod83.ac11fd44.png",
@@ -92,8 +92,7 @@
     "static/media/G1-33-Aurora Roussou-cod68-B.png": "/app/static/media/G1-33-Aurora Roussou-cod68-B.0324756c.png",
     "static/media/G1-33-Aurora Roussou-cod68.png": "/app/static/media/G1-33-Aurora Roussou-cod68.38451521.png",
     "static/media/G1-34-Machado da Aurora-cod69.png": "/app/static/media/G1-34-Machado da Aurora-cod69.2ad7499c.png",
-    "static/media/G1-35-Katherine Adamopoulos-Ev-cod70.png": "/app/static/media/G1-35-Katherine Adamopoulos-Ev-cod70.46fc71b4.png",
-    "static/media/G1-35-Katherine Adamopoulos-cod70.png": "/app/static/media/G1-35-Katherine Adamopoulos-cod70.330aae80.png",
+    "static/media/G1-35-Katherine Adamopoulos-cod70.png": "/app/static/media/G1-35-Katherine Adamopoulos-cod70.46fc71b4.png",
     "static/media/G1-36-Chuva-de-Flechas-cod72.png": "/app/static/media/G1-36-Chuva-de-Flechas-cod72.367ef482.png",
     "static/media/G1-37-Hillare-Philemon-cod78.png": "/app/static/media/G1-37-Hillare-Philemon-cod78.d4bfa8a7.png",
     "static/media/G1-38-Esconderijo-das-Amazonas-cod79.png": "/app/static/media/G1-38-Esconderijo-das-Amazonas-cod79.612a0731.png",
@@ -185,8 +184,7 @@
     "static/media/S1-33-Zartroworb-cod64.png": "/app/static/media/S1-33-Zartroworb-cod64.2dd30001.png",
     "static/media/S1-34-Trowerbell-cod65.png": "/app/static/media/S1-34-Trowerbell-cod65.cda77620.png",
     "static/media/S1-35-Phroniac-Ev-cod66-B.png": "/app/static/media/S1-35-Phroniac-Ev-cod66-B.059fbe89.png",
-    "static/media/S1-35-Phroniac-Ev-cod66.png": "/app/static/media/S1-35-Phroniac-Ev-cod66.01a65fc4.png",
-    "static/media/S1-35-Phroniac-cod66.png": "/app/static/media/S1-35-Phroniac-cod66.699c8ce3.png",
+    "static/media/S1-35-Phroniac-cod66.png": "/app/static/media/S1-35-Phroniac-cod66.01a65fc4.png",
     "static/media/S1-36-Explosão Goldroniana-cod71.png": "/app/static/media/S1-36-Explosão Goldroniana-cod71.b95e494b.png",
     "static/media/S1-37-Gowba-cod73.png": "/app/static/media/S1-37-Gowba-cod73.5cfded09.png",
     "static/media/S1-38-Morgev-cod74.png": "/app/static/media/S1-38-Morgev-cod74.88946572.png",
@@ -225,8 +223,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.95af9303.js",
-    "static/js/2.a3514c78.chunk.js",
+    "static/js/2.babd20b5.chunk.js",
     "static/css/main.0ff3aa3b.chunk.css",
-    "static/js/main.c727f87b.chunk.js"
+    "static/js/main.d992a4c6.chunk.js"
   ]
 }

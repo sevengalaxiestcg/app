@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "bf0f1dd21dd94818a81362ec2facf319",
+    "revision": "6ff3aede432d8ed743bacb4006b5c059",
     "url": "/app/index.html"
   },
   {
-    "revision": "b7b2aaed1e1ba3cfc49e",
+    "revision": "ce23a440804658bc8171",
     "url": "/app/static/css/main.0ff3aa3b.chunk.css"
   },
   {
-    "revision": "b4b512ea582e049ae9a7",
-    "url": "/app/static/js/2.a3514c78.chunk.js"
+    "revision": "f93e72d539a6d6bfe0da",
+    "url": "/app/static/js/2.babd20b5.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/app/static/js/2.a3514c78.chunk.js.LICENSE.txt"
+    "url": "/app/static/js/2.babd20b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "b7b2aaed1e1ba3cfc49e",
-    "url": "/app/static/js/main.c727f87b.chunk.js"
+    "revision": "ce23a440804658bc8171",
+    "url": "/app/static/js/main.d992a4c6.chunk.js"
   },
   {
     "revision": "fb683d993c694aeb9312",
@@ -429,11 +429,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "46fc71b4d979574cc95615a19747f661",
-    "url": "/app/static/media/G1-35-Katherine Adamopoulos-Ev-cod70.46fc71b4.png"
-  },
-  {
-    "revision": "330aae80ab6a59a26d43c45cfaea5914",
-    "url": "/app/static/media/G1-35-Katherine Adamopoulos-cod70.330aae80.png"
+    "url": "/app/static/media/G1-35-Katherine Adamopoulos-cod70.46fc71b4.png"
   },
   {
     "revision": "367ef48263a7d97b1f7845f6a46741c9",
@@ -973,11 +969,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   },
   {
     "revision": "01a65fc4c160048948be08fa10d8a4b2",
-    "url": "/app/static/media/S1-35-Phroniac-Ev-cod66.01a65fc4.png"
-  },
-  {
-    "revision": "699c8ce39c7081f634625efeaa95ed75",
-    "url": "/app/static/media/S1-35-Phroniac-cod66.699c8ce3.png"
+    "url": "/app/static/media/S1-35-Phroniac-cod66.01a65fc4.png"
   },
   {
     "revision": "b95e494b735d568b3bab77185507eea8",
